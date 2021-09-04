@@ -9,15 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amishakumari544/todo-app.git"
+    "url": "git+https://github.com/amishakumari544/todo_app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amishakumari544/todo-app/issues"
+    "url": "https://github.com/amishakumari544/todo_app/issues"
   },
-  "homepage": "https://github.com/amishakumari544/todo-app#readme",
+  "homepage": "https://github.com/amishakumari544/todo_app#readme",
   "dependencies": {
-    "npm": "^7.22.0"
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "npm": "^7.22.0",
+    "react-emoji-render": "^1.2.4",
+    "react-feather": "^2.0.9"
   }
 }

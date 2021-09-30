@@ -15,5 +15,4 @@ Simple ReactJs task manager 🔥
 
 ![Screenshot (346)](https://user-images.githubusercontent.com/49230384/132128523-c1a4c46f-005b-432d-9140-b54be29402b9.png)
 
-![todo](https://user-images.githubusercontent.com/49230384/132128453-ce490fe2-df23-4cf2-aaee-b959ffade382.png)
 
